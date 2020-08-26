@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**a2un/a2un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate in Computer Science, starting my PhD in Intelligent Systems at University of Pittsburgh.
 
-Here are some ideas to get you started:
+- This is my [website](https://a2un.github.io)
+- [My Blog](https://a2un.github.io/blog.html)
+- 🔭 I’m currently working on [EMBRACE](http://movedbyreading.com) at [FACET Lab](https://facetlab-website-sample.herokuapp.com/projects/) 
+- 🌱 I’m currently learning research in Intelligent Tutoring Systems and Human Computer Interaction
+- 💬 Ask me about Java, C++, C#, Python, JavaScript, R and of course, Algorithms
+- 📫 How to reach me: arl122@pitt.edu
+- Pronouns: he/him/his
+- Fun fact: I usually like to kick-back and think about nothing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arun's Github Stats](https://github-readme-stats.vercel.app/api?username=a2un)
