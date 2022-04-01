@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a graduate in Computer Science, starting my PhD in Intelligent Systems at University of Pittsburgh.
+I am a graduated with a Bachelors and Masters in Computer Science, now a PhD student in the Intelligent Systems at University of Pittsburgh.
 
 - :computer: This is my [website](https://a2un.github.io)
 - :page_with_curl: [My Blog](https://a2un.github.io/blog.html)
