@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arl-piit/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/encodedgeek)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MqjEyoIAAAAJ&hl=en)
+
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
 I graduated with a Bachelors and Masters in Computer Science, now a PhD student in the Intelligent Systems at University of Pittsburgh.
