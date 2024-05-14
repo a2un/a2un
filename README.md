@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Interned at [EarlitecDx](https://github.com/EarliTecDx) and [Vertica](https://github.com/Vertica)]
+Interned at [EarlitecDx](https://github.com/EarliTecDx) and [Vertica](https://github.com/Vertica)
+
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://a2un.github.io)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arl-piit/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/encodedgeek)
